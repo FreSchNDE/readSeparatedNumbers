@@ -1,5 +1,5 @@
 # readSeparatedNumbers
-This MATLAB funtion, [readSeparatedNumbers.m](readSeparatedNumbers.m), reads numeric data from a text file and parses it into an array.
+This MATLAB function, [readSeparatedNumbers.m](readSeparatedNumbers.m), reads numeric data from a text file and parses it into an array.
 The function has better performance then alternatives like `fscanf()` or `load()`.
 
 This function was originally written to speed up the loading of files in the style of the [provided example file(s)](examples/ExampleData1.dat). A speed comparison demonstration is available [here](examples/demo.m).
